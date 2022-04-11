@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>tugas 1-10 pak Imam Marzuki 
+</head>
+</title>
+
+<body bgcolor="red">
+<center>
+<h1>tugas pak imam marzuki</h1>
+</center>
+</body>
+<script>
+var a;
+a=prompt("masukkan angka  ")
+if(a%2==0){
+	document.write("makasih ya ");
+}
+else{
+	document.write("thanks you");
+}
+
+</script>
+</html>
+
